@@ -1,0 +1,10 @@
+<Pests>
+	<Pest Pestid="P1059">
+		<PestName>Silver Weevil</PestName>
+		<PestTreatment>Spray during larva stage</PestTreatment>
+	</Pest>
+	<Pest Pestid ="P5331">
+		<PestName>Grove Snail</PestName>
+		<PestTreatment>Iron Phosphate</PestTreatment>
+	</Pest>
+</Pests>

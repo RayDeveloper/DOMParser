@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DomParser</label>
+		<id>447</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>DomParser.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DomParser.java\DomParser.java.jcp</path>
+		</project>
+	</projects>
+</workspace>
